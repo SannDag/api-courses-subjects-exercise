@@ -1,4 +1,4 @@
-To Do:
+Completed Features:
 
 1. Create a new course.
 2. Create subjects and associate them with a course.
